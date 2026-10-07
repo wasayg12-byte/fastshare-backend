@@ -1,0 +1,7 @@
+node_modules/
+.env
+.auth-secret
+uploads/
+users.json
+messages.json
+avatars/
